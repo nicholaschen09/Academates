@@ -1,0 +1,95 @@
+.home {
+  .gradeButtons {
+    display: flex;
+    justify-content: space-between;
+    width: 35rem;
+    margin: 0 auto;
+    margin-top: 2rem;
+
+    @media (max-width: 600px) {
+      width: 90%;
+    }
+
+    button {
+      all: unset;
+      width: 5rem;
+      border: 2px solid #e18534;
+      text-align: center;
+      padding: 0.5rem 1rem;
+      transition: 0.5s;
+      border-radius: 20px;
+
+      @media (max-width: 600px) {
+        width: 4.1rem;
+      }
+    }
+    button:hover {
+      cursor: pointer;
+      background-color: #e18534;
+      color: #fff;
+    }
+  }
+
+  .info {
+    margin-top: 5rem;
+    text-align: center;
+    img {
+      width: 15rem;
+      margin-right: 4rem;
+      rotate: 10deg;
+    }
+
+    p {
+      text-align: center;
+      color: #666666;
+      font-size: 1.2rem;
+      margin-top: 5rem;
+    }
+  }
+
+  .groupsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 3rem;
+
+    .group {
+      border: 2px solid #e18534;
+      margin: 1rem 0;
+      width: 20rem;
+      padding: 1rem;
+      border-radius: 20px;
+      text-align: center;
+
+      h1 {
+        font-size: 1.5rem;
+        font-weight: 600;
+      }
+
+      h2 {
+        i {
+          margin-right: 0.5rem;
+        }
+      }
+
+      .components {
+        button {
+          all: unset;
+          width: 2.3rem;
+          border: 2px solid #e18534;
+          text-align: center;
+          padding: 0.3rem 1rem;
+          transition: 0.5s;
+          border-radius: 20px;
+        }
+        button:hover {
+          cursor: pointer;
+          background-color: #e18534;
+          color: #fff;
+        }
+      }
+    }
+  }
+}

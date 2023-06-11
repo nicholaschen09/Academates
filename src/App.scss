@@ -1,0 +1,33 @@
+.App {
+  color: #e18534;
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 2rem;
+    width: 100%;
+    padding-bottom: 1.5rem;
+    border-bottom: 2px solid #e18534;
+
+    img {
+      width: 13rem;
+      margin-left: 2rem;
+    }
+    button {
+      all: unset;
+      width: 5rem;
+      border: 2px solid #e18534;
+      text-align: center;
+      padding: 0.5rem 1rem;
+      margin-right: 2rem;
+      transition: 0.5s;
+      border-radius: 20px;
+    }
+    button:hover {
+      cursor: pointer;
+      background-color: #e18534;
+      color: #fff;
+    }
+  }
+}

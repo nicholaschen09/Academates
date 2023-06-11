@@ -1,0 +1,71 @@
+.groupRoom {
+  margin-top: 1rem;
+
+  a {
+    margin-left: 4rem;
+  }
+  a:hover {
+    cursor: pointer;
+  }
+
+  .displayMessages {
+    border: 2px solid #e18534;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 1rem;
+    border-radius: 20px;
+    padding: 1rem;
+    height: 32rem;
+    overflow-y: scroll;
+
+    @media (max-height: 800px) {
+      height: 27rem;
+    }
+
+    .messages {
+      p {
+        border: 2px solid #e18534;
+        border-radius: 10px;
+        padding: 0.3rem;
+      }
+    }
+  }
+
+  .createMessage {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 3rem;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+
+    input {
+      all: unset;
+      border: 2px solid #e18534;
+      width: 20rem;
+      padding: 0.3rem 1rem;
+      border-radius: 20px;
+      text-align: center;
+    }
+
+    button {
+      all: unset;
+      width: 2.3rem;
+      border: 2px solid #e18534;
+      text-align: center;
+      padding: 0.3rem 1rem;
+      transition: 0.5s;
+      border-radius: 20px;
+      margin-left: 2rem;
+    }
+
+    button:hover {
+      cursor: pointer;
+      background-color: #e18534;
+      color: #fff;
+    }
+  }
+}

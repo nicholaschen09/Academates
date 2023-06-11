@@ -1,0 +1,60 @@
+[
+    {
+      "Title": "Grade 10 English",
+      "Grade": "Grade 10",
+      "Subject": "English",
+      "Members": 3,
+      "Room": "7"
+    },
+    {
+      "Title": "Grade 10 Math",
+      "Grade": "Grade 10",
+      "Subject": "Math",
+      "Members": 4,
+      "Room": "8"
+
+    }
+    ,
+    {
+      "Title": "Grade 10 Science",
+      "Grade": "Grade 10",
+      "Subject": "Science",
+      "Members": 4,
+      "Room": "9"
+
+    },
+    {
+      "Title": "Grade 10 History",
+      "Grade": "Grade 10",
+      "Subject": "History",
+      "Members": 4,
+      "Room": "10"
+
+    }
+    ,
+    {
+      "Title": "Grade 10 Business",
+      "Grade": "Grade 10",
+      "Subject": "Business",
+      "Members": 4,
+      "Room": "11"
+
+    },
+    {
+      "Title": "Grade 10 French",
+      "Grade": "Grade 10",
+      "Subject": "French",
+      "Members": 4,
+      "Room": "12"
+
+    },
+    {
+        "Title": "Grade 10 Computer Science",
+        "Grade": "Grade 10",
+        "Subject": "Computer Science",
+        "Members": 4,
+        "Room": "13"
+  
+      }
+  ]
+  

@@ -1,0 +1,69 @@
+[
+    {
+      "Title": "Grade 12 English",
+      "Grade": "Grade 12",
+      "Subject": "English",
+      "Members": 3,
+      "Room": "22"
+    },
+    {
+      "Title": "Grade 12 Calculas and Vectors",
+      "Grade": "Grade 12",
+      "Subject": "Calculas and Vectors",
+      "Members": 4,
+      "Room": "23"
+
+    }
+    ,
+    {
+      "Title": "Grade 12 Chemistry",
+      "Grade": "Grade 12",
+      "Subject": "Chemistry",
+      "Members": 4,
+      "Room": "24"
+
+    },
+    {
+      "Title": "Grade 12 Biology",
+      "Grade": "Grade 12",
+      "Subject": "Biology",
+      "Members": 4,
+      "Room": "25"
+
+    }
+    ,
+    {
+      "Title": "Grade 12 Physics",
+      "Grade": "Grade 12",
+      "Subject": "Physics",
+      "Members": 4,
+      "Room": "26"
+
+    },
+    {
+      "Title": "Grade 12 Computer Science",
+      "Grade": "Grade 12",
+      "Subject": "Computer Science",
+      "Members": 4,
+      "Room": "27"
+
+    },
+    {
+        "Title": "Grade 12 Law",
+        "Grade": "Grade 12",
+        "Subject": "Law",
+        "Members": 4,
+        "Room": "28"
+  
+      }
+      ,
+    {
+        "Title": "Grade 12 Business",
+        "Grade": "Grade 12",
+        "Subject": "Business",
+        "Members": 4,
+        "Room": "30"
+  
+      }
+  ]
+  

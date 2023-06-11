@@ -1,0 +1,69 @@
+[
+    {
+      "Title": "Grade 11 English",
+      "Grade": "Grade 11",
+      "Subject": "English",
+      "Members": 3,
+      "Room": "14"
+    },
+    {
+      "Title": "Grade 11 Functions",
+      "Grade": "Grade 11",
+      "Subject": "Functions",
+      "Members": 4,
+      "Room": "15"
+
+    }
+    ,
+    {
+      "Title": "Grade 11 Biology",
+      "Grade": "Grade 11",
+      "Subject": "Biology",
+      "Members": 4,
+      "Room": "16"
+
+    },
+    {
+      "Title": "Grade 11 Chemistry",
+      "Grade": "Grade 11",
+      "Subject": "Chemistry",
+      "Members": 4,
+      "Room": "17"
+
+    }
+    ,
+    {
+      "Title": "Grade 11 Computer Science",
+      "Grade": "Grade 11",
+      "Subject": "Computer Science",
+      "Members": 4,
+      "Room": "18"
+
+    },
+    {
+      "Title": "Grade 11 Law",
+      "Grade": "Grade 11",
+      "Subject": "Law",
+      "Members": 4,
+      "Room": "19"
+
+    },
+    {
+        "Title": "Grade 11 Business",
+        "Grade": "Grade 11",
+        "Subject": "Business",
+        "Members": 4,
+        "Room": "20"
+  
+      }
+      ,
+    {
+        "Title": "Grade 10 Computer Science",
+        "Grade": "Grade 11",
+        "Subject": "Computer Science",
+        "Members": 4,
+        "Room": "21"
+  
+      }
+  ]
+  

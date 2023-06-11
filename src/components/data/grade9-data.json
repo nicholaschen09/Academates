@@ -1,0 +1,52 @@
+[
+    {
+      "Title": "Grade 9 Math",
+      "Grade": "Grade 9",
+      "Subject": "Math",
+      "Members": 3,
+      "Room": "1"
+    },
+    {
+      "Title": "Grade 9 Science",
+      "Grade": "Grade 9",
+      "Subject": "Science",
+      "Members": 4,
+      "Room": "2"
+
+    }
+    ,
+    {
+      "Title": "Grade 9 English",
+      "Grade": "Grade 9",
+      "Subject": "Science",
+      "Members": 4,
+      "Room": "3"
+
+    },
+    {
+      "Title": "Grade 9 Geography",
+      "Grade": "Grade 9",
+      "Subject": "Geography",
+      "Members": 4,
+      "Room": "4"
+
+    }
+    ,
+    {
+      "Title": "Grade 9 French",
+      "Grade": "Grade 9",
+      "Subject": "French",
+      "Members": 4,
+      "Room": "5"
+
+    },
+    {
+      "Title": "Grade 9 Business",
+      "Grade": "Grade 9",
+      "Subject": "Business",
+      "Members": 4,
+      "Room": "6"
+
+    }
+  ]
+  
